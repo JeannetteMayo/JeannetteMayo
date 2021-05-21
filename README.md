@@ -4,6 +4,6 @@
 - 📫 How to reach me on Linked-in at https://www/linkedin.com/jeannettemayogallegos
 
 <!---
-Jgallegos0/Jgallegos0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JeannetteMayo/JeannetteMayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
