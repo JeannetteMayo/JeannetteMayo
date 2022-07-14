@@ -3,6 +3,13 @@
 Hi, my name is Jeannette!
 _________________________
 
-I'm a software engineer based in California 
+I'm a software engineer based in California, 
 
 When I'm not online, I enjoy traveling, working out, and spending time with my family and friends.
+
+Lnaguages:
+Tools:
+What I'm learning:
+
+Stay in touch!
+<a href=”https://www.linkedin.com/in/jeannettemayo/"><img align=”left” src=”https://github.com/JeannetteMayo/JeannetteMayo/blob/main/images/linkedin.png" alt=”Jeannette Mayo | LinkedIn” width=”21px”/></a>
