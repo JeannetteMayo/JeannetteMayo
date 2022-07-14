@@ -1,3 +1,7 @@
+![rocketgif](https://user-images.githubusercontent.com/65695953/178920870-671ec1cb-ea13-4c29-936f-e1736cb1810f.gif)
+
+
+
 Hi, my name is Jeannette!
 _________________________
 
