@@ -12,5 +12,11 @@ Tools:
 What I'm learning:
 
 Stay in touch!
-<a href="https://www.linkedin.com/in/jeannettemayo/"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/linkedin.svg" alt="Jeannette Mayo | LinkedIn" width="21px"/></a>
 
+<a href="https://www.linkedin.com/in/jeannettemayo/"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/linkedin.png" alt="Jeannette Mayo | LinkedIn" width="51px"/></a> 
+
+
+<a href="https://www.instagram.com/jeannettemayogallegos"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/instagram.svg" alt="Jeannette Mayo | Instagram" width="51px"/></a> 
+
+
+<a href="https://www.twitter.com/jeannettemayog"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/twitter.svg" alt="Jeannette Mayo | Twitter" width="51px"/></a>
