@@ -8,10 +8,11 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jeannettemayo/" target="_blan
 ## What I'm working on?
 - New projects focused on 🛩 aviation and security
 - My next mobile + desktop blog
+- Sharpening my DSA skills
 - Security+
 
 ## Skills
-- Python, Java, C++, Django, HTML, CSS, Javascript, OOP, Git & GitHub
+- Python, Java, C++, Django, HTML, CSS, Javascript, OOP, Git & GitHub, Data Structures/Algorithms
 
 ## What I'm learning?
 - React.js, Network Security, Scripting, OS & Virtual Machines
