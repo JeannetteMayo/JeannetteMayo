@@ -24,3 +24,8 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jeannettemayo/" target="_blan
 <a href="https://www.instagram.com/jeannettemayogallegos"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/instagram.svg" alt="Jeannette Mayo | Instagram" width="45px"/></a> 
 
 <a href="https://www.twitter.com/jeannettemayog"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/twitter.svg" alt="Jeannette Mayo | Twitter" width="51px"/></a>
+
+<a href="https://www.tiktok.com/jeannettemayo"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/tik-tok.png" alt="Jeannette Mayo | TikTok" width="45px"/></a>
+
+<a href="https://www.youtube.com/channel/UCHNeWa-xmBzg7HEwsHPiNyw"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/youtube.png" alt="Jeannette Mayo | Youtube" width="51px"/></a>
+
