@@ -17,8 +17,9 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jeannettemayo/" target="_blan
 ## What I'm learning?
 - React.js, Network Security, Scripting, OS & Virtual Machines
 
-## Stay in touch!
 <!---
+## Stay in touch!
+
 <a href="https://www.linkedin.com/in/jeannettemayo/"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/linkedin.png" alt="Jeannette Mayo | LinkedIn" width="51px"/></a> 
 
 <a href="https://www.instagram.com/jeannettemayogallegos"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/instagram.svg" alt="Jeannette Mayo | Instagram" width="45px"/></a> 
