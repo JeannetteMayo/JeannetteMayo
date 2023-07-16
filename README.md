@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jeannettemayo/" target="_blan
 - Security+
 
 ## Skills
-- Python, Java, C++, Django, HTML, CSS, Javascript, OOP, Git & GitHub, Data Structures/Algorithms
+- Python, Django, HTML, CSS, Javascript, Java, OOP, Git & GitHub, Data Structures/Algorithms, C++
 
 ## What I'm learning?
 - React.js, Network Security, Scripting, OS & Virtual Machines
