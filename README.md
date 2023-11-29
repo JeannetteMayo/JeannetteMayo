@@ -5,6 +5,11 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jeannettemayo/" target="_blan
 </h3>
 
 
+<!---
+## Stay in touch!
+
+
+
 ## What I'm working on?
 - New projects focused on 🛩 aviation and security
 
@@ -13,9 +18,6 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jeannettemayo/" target="_blan
 
 ## What I'm learning?
 - Embedded Systems Development, Hardware/Software Integration
-
-<!---
-## Stay in touch!
 
 <a href="https://www.linkedin.com/in/jeannettemayo/"><img align="left" src="https://raw.githubusercontent.com/JeannetteMayo/JeannetteMayo/main/images/linkedin.png" alt="Jeannette Mayo | LinkedIn" width="51px"/></a> 
 
